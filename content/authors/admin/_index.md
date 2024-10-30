@@ -23,12 +23,12 @@ organizations:
     url: https://www.rudn.ru/
 
 
-Интересы:
+interests:
   - Стэндап комедии
   - Советские мультфильмы
   - Python
 
-Образование:
+education:
   - area: Прикладная информатика
     institution: Российский университет дружбы народов имени Патриса Лумумбы
     date_start: 2023-09-01
