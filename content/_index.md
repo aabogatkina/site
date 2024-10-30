@@ -58,7 +58,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
-  - block: portfolio
+  - block: collection
     id: projects
     content:
       title: Projects
